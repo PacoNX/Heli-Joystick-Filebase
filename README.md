@@ -4,6 +4,18 @@ A collaborative engineering project by **Jacob Mueller and Paco Maranhao**, focu
 
 The goal is to recreate realistic helicopter controls and cockpit interaction using accessible tools, off-the-shelf electronics, and 3D printing.
 
+Note that the Branch "main" is not at all up to date and needs to be merged from various dev branches. This project is a work in progress.
+
+---
+
+## ⚠️ Branch Status Notice
+
+The `main` branch is currently **not up to date** and does not reflect the latest state of the project.
+
+Active development is happening across multiple `dev` branches, which contain the most recent changes and features. These branches need to be merged and consolidated into `main`.
+
+This project is still a **work in progress**, and structure, features, and documentation are expected to change frequently.
+
 ---
 
 ## 🎯 Project Goal
