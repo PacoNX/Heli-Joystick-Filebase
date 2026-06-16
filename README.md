@@ -8,16 +8,6 @@ Note that the Branch "main" is not at all up to date and needs to be merged from
 
 ---
 
-## ⚠️ Branch Status Notice
-
-The `main` branch is currently **not up to date** and does not reflect the latest state of the project.
-
-Active development is happening across multiple `dev` branches, which contain the most recent changes and features. These branches need to be merged and consolidated into `main`.
-
-This project is still a **work in progress**, and structure, features, and documentation are expected to change frequently.
-
----
-
 ## 🎯 Project Goal
 
 - Build a fully functional helicopter simulator rig
