@@ -1,4 +1,4 @@
-# 🚁 Helicopter Simulator Private Project
+# 🚁 Helicopter Simulator Project
 
 A collaborative engineering project by **Jacob Mueller and Paco Maranhao**, focused on designing and building a fully customizable, 3D-printable helicopter simulator rig inspired by the legendary **Bell UH-1 “Huey”**.
 
